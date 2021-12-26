@@ -1102,7 +1102,7 @@
         "signature": "e0e01013f40a172c13d53c88ce2695741df27852da7ede9e2e336c86c43c8ec5"
       },
       "../src/app.service.ts": {
-        "version": "eaf8514ce110fa428a93a27408df4d06d133dbd9ed0a775c315ddfdd507853a9",
+        "version": "5d4242d50092a353e5ab1f06663a89dbc714c7d9d70072ea03c83c5b14750f05",
         "signature": "d8f4cb0109c1b399d657807fd6af504d74a9300325e0fc915abdbf658b464a97"
       },
       "../node_modules/@nestjs/microservices/interfaces/client-grpc.interface.d.ts": {
@@ -1522,15 +1522,15 @@
         "signature": "3d95e84619601737451a684afb99f930a2a7b4a8491562a29047cdedd85fa249"
       },
       "../src/app.controller.ts": {
-        "version": "7fcb7d7cdb90c3640bdc50451b23ac419582ddef7e82bee23f5e8e426d6b40c1",
+        "version": "63ef07391ccb4746e74d53ed066b180dcfcb72d59d30f043909698c8f636f15a",
         "signature": "f46d78878e6f098e46cb8f3086026319bcb5177d75aedad3e16325b30756bcbb"
       },
       "../src/app.module.ts": {
-        "version": "a33f83815ad2be2c53bba3fce53f77ea9767f6baf465eaa4fc34b3fbbc4a34fc",
+        "version": "1b9ab085f6fb13c67b55708a772f08fbcbd423c6ad6bb3903fc30d3e9bef8c84",
         "signature": "9fc7f7b6ad854404973b8cba8e6d883f758237991968e9a3965d716d46f1da88"
       },
       "../src/main.ts": {
-        "version": "e25d9bd8f80b6ffbcc8826ed1b407e747e4fbe346c5bab62cbe5837da4eeb189",
+        "version": "3c8967198a459fe0868276c735fb4ecbe75c3ed2bbda02d4dcee787c5c448528",
         "signature": "f761c91419d0a89422a0004ef1a92929dd4d2d5e5c16758654d8b0467d1998c6"
       },
       "../node_modules/@types/anymatch/index.d.ts": {
